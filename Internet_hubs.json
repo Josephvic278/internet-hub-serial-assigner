@@ -1,0 +1,44 @@
+{
+    "Internet_hubs": [
+        {
+            "id": "men1",
+            "serial_number": "C25CTW00000000001470"
+        },
+        {
+            "id": "mn1",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn2",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn3",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn4",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn5",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn6",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn7",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn8",
+            "serial_number": "<serial number here>"
+        },
+        {
+            "id": "mn9",
+            "serial_number": "<serial number here>"
+        }
+    ]
+}
