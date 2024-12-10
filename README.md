@@ -84,5 +84,3 @@ This Python script processes a JSON file of internet hubs and assigns valid seri
 3. Check the output JSON file (`clean_internet_hubs.json`) in the same directory.
 
 ---
-
-This version fixes minor formatting issues and adds consistency to the layout. Let me know if you need further adjustments!
